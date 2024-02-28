@@ -1,0 +1,35 @@
+div.class1{
+    background-image: linear-gradient(yellow, lightyellow);
+    filter:contrast(80%);
+}
+img{
+    width:500px;
+    height:500px;
+    border-radius: 50%;
+}
+
+ul, ol {
+    background-color: lightblue;
+    font-family: monospace;
+    color: black;
+    margin-left: 20px; 
+    text-transform: lowercase; 
+}
+
+p {
+    background-color: lightblue;
+    color: black;
+    margin-bottom: 10px; 
+}
+h1, h2 {
+    color: deeppink;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0; 
+}
+body {
+    background-color: lightblue;
+    color: black; /* Change to desired text color */
+    font-size: 16px; 
+    margin: 0; 
+}
